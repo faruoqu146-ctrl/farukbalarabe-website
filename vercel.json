@@ -1,0 +1,19 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/work", "destination": "/work.html" },
+    { "source": "/services", "destination": "/services.html" },
+    { "source": "/products", "destination": "/products.html" },
+    { "source": "/nexgene", "destination": "/nexgene.html" },
+    { "source": "/about", "destination": "/about.html" },
+    { "source": "/contact", "destination": "/contact.html" },
+    { "source": "/projects/sable", "destination": "/projects/sable.html" },
+    { "source": "/projects/nexgene", "destination": "/projects/nexgene.html" },
+    { "source": "/projects/swiftpay", "destination": "/projects/swiftpay.html" },
+    { "source": "/products/sable-system", "destination": "/products/sable-system.html" },
+    { "source": "/products/essential-ui-kit", "destination": "/products/essential-ui-kit.html" },
+    { "source": "/products/wireframe-system", "destination": "/products/wireframe-system.html" },
+    { "source": "/products/foundations-pack", "destination": "/products/foundations-pack.html" }
+  ]
+}
